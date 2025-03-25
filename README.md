@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umamahalingam
-- 🌱 I’m currently studying Mechatronics Engineering and Commerce
-- 💞️ These are some of my final year projects
+- 🌱 I’m currently working as a Software Engineer
+- 💞️ These are some of my projects
 - 📫 How to reach me --> uma.l.mahalingam@gmail.com
 
 <!---
